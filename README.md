@@ -16,4 +16,3 @@ This repository is surveying on 3D Perception(object detection) papers listed be
 ## R-CNN
 - LiDAR R-CNN
 - RangeRCNN
-- Pyramid R-CNN
