@@ -1,5 +1,5 @@
 # 3D_Perception_Survey
-This repository is surveying on 3D Perception(object detection) papers listed below.
+This repository is surveying on 3D Perception(object detection) papers listed below in korean.
 
 ## SSD
 - 3DSSD
