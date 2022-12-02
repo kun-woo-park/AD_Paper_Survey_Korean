@@ -9,7 +9,7 @@
 - Lidar 데이터의 경우 데이터 셋 간 lidar 스캔 방식이 다르기 때문에 분포의 차이가 발생함
 - 특정 lidar의 경우 스캔 방식이 조절 가능한 경우도 있는데, 이런 경우들에 대해 매번 fine tuning을 해주는 것은 비효율적임
 - 따라서 lidar의 스캔 방식에 상관없이 perception model이 적용 가능한 preprocessing 알고리즘을 개발함
-- 어떠한 perception model에도 적용 가능함
+- 어떠한 perception model에도 적용 가능함(preprocess 형태)
 
 ## Methods and Materials
 
