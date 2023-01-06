@@ -24,3 +24,7 @@ This repository is surveying on 3D Perception(object detection) papers listed be
 ## !!To Check!!
 - [SHIFT Data set](https://www.vis.xyz/shift/)
 - [VISTA](https://github.com/vista-simulator/vista)
+- [Goal-oriented autonomous driving](https://arxiv.org/pdf/2212.10156.pdf)
+- [BEVFusion](https://bevfusion.mit.edu/assets/paper.pdf)
+- [MP3](https://arxiv.org/pdf/2101.06806.pdf)
+- [LAV](https://arxiv.org/pdf/2203.11934.pdf)
