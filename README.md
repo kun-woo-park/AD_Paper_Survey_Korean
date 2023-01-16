@@ -1,4 +1,4 @@
-# Autonomous driving paper survey
+# Autonomous Driving Paper Survey
 This repository is surveying on 3D Perception(object detection) papers listed below in korean.
 
 ## SSD
